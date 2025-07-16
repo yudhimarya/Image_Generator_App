@@ -1,4 +1,7 @@
- 
+
+node_modules/
+.pnp/
+.pnp.js
 
 # === React production build ===
 build/
