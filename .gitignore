@@ -1,5 +1,8 @@
 
-node_modules/
+# Ignore all node_modules folders
+client/node_modules/
+server/node_modules/
+
 .pnp/
 .pnp.js
 
